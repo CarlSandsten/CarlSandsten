@@ -1,5 +1,9 @@
 ## Welcome to my hub 👋
 
+Frontend                   ⭐⭐⭐⭐⭐
+Backend                    ⭐⭐⭐
+Fullstack                  ⭐⭐⭐⭐⭐
+
 ### 🖥️ Technologies I worked with professionally that are worth mentioning.
 - JavaScript               ⭐⭐⭐⭐⭐
 - TypeScript               ⭐⭐⭐⭐
