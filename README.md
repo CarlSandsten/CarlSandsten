@@ -28,8 +28,9 @@
 ### 🌱 I’m currently learning 
 - NextJS 14 latest features
 - React's latest features
-- Using React state and Context over Redux or MobX for most if not all cases
+- Using React state and Context API over Redux or MobX for most if not all cases
 - IndexedDB for a better offline experience
+- Algorithms that peole ask for that we never use and somehow that is a measurement of skills.
 
 <!--
 **CarlSandsten/CarlSandsten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
