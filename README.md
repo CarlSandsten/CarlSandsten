@@ -12,6 +12,7 @@
 - MongoDB                  ⭐⭐⭐
 - NodeJS                   ⭐⭐⭐⭐
 - Express                  ⭐⭐⭐⭐
+- Dotnet Core              ⭐⭐
 - AWS                      ⭐⭐⭐
 - Azure                    ⭐⭐⭐
 - GCP                      ⭐⭐⭐
