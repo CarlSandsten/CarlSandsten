@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Technologies I worked with professionally that are worth mentioning (stars are mixure of experience and skill).
+### Technologies I worked with professionally that are worth mentioning (stars are mixure of experience and skill).
 - JavaScript               ⭐⭐⭐⭐⭐
 - TypeScript               ⭐⭐⭐⭐
 - SQL (MySQL & PostgreSQL) ⭐⭐⭐
@@ -24,6 +24,12 @@ Technologies I worked with professionally that are worth mentioning (stars are m
 - Redux                    ⭐⭐⭐
 - MobX                     ⭐⭐⭐⭐
 - Apollo                   ⭐⭐
+
+### 🌱 I’m currently learning 
+- NextJS 14 latest features
+- React's latest features
+- Using React state and Context over Redux or MobX for most if not all cases
+- IndexedDB for a better offline experience
 
 <!--
 **CarlSandsten/CarlSandsten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
