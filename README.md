@@ -1,6 +1,6 @@
 ## Welcome to my hub 👋
 
-### Technologies I worked with professionally that are worth mentioning (stars are mixure of experience and skill).
+### Technologies I worked with professionally that are worth mentioning.
 - JavaScript               ⭐⭐⭐⭐⭐
 - TypeScript               ⭐⭐⭐⭐
 - SQL (MySQL & PostgreSQL) ⭐⭐⭐
