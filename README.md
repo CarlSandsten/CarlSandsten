@@ -10,6 +10,7 @@
 - SQL (MySQL & PostgreSQL) ⭐⭐⭐
 - GraphQL                  ⭐⭐⭐
 - MongoDB                  ⭐⭐⭐
+- Redis                    ⭐⭐⭐
 - NodeJS                   ⭐⭐⭐⭐
 - Express                  ⭐⭐⭐⭐
 - Dotnet Core              ⭐⭐
