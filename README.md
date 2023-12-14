@@ -3,12 +3,15 @@
 ### Technologies I worked with professionally that are worth mentioning.
 - JavaScript               ⭐⭐⭐⭐⭐
 - TypeScript               ⭐⭐⭐⭐
+- Golang                   ⭐⭐⭐
+- C#                       ⭐⭐⭐
+- Python                   ⭐⭐⭐
+- PHP                      ⭐⭐⭐
 - SQL (MySQL & PostgreSQL) ⭐⭐⭐
 - GraphQL                  ⭐⭐⭐
 - MongoDB                  ⭐⭐⭐
-- Golang                   ⭐⭐⭐
-- PHP                      ⭐⭐⭐
-- Python                   ⭐⭐⭐
+- NodeJS                   ⭐⭐⭐⭐
+- Express                  ⭐⭐⭐⭐
 - AWS                      ⭐⭐⭐
 - Azure                    ⭐⭐⭐
 - GCP                      ⭐⭐⭐
