@@ -31,6 +31,8 @@
 ### 🌱 I’m currently learning 
 - NextJS 14 latest features
 - React's latest features
+- Swift and Swift UI for iOS development
+- OpenAI API
 - Using React state and Context API over Redux or MobX for most if not all cases
 - IndexedDB for a better offline experience
 - Algorithms that peole ask for that we never use and somehow that is a measurement of skills.
