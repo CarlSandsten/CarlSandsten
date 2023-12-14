@@ -4,26 +4,26 @@
 - JavaScript               ⭐⭐⭐⭐⭐
 - TypeScript               ⭐⭐⭐⭐
 - SQL (MySQL & PostgreSQL) ⭐⭐⭐
-- GraphQL                  ⭐⭐
+- GraphQL                  ⭐⭐⭐
 - MongoDB                  ⭐⭐⭐
-- Golang                   ⭐⭐
+- Golang                   ⭐⭐⭐
 - PHP                      ⭐⭐⭐
-- Python                   ⭐⭐
-- AWS                      ⭐⭐
-- Azure                    ⭐⭐
-- GCP                      ⭐⭐
+- Python                   ⭐⭐⭐
+- AWS                      ⭐⭐⭐
+- Azure                    ⭐⭐⭐
+- GCP                      ⭐⭐⭐
 - React                    ⭐⭐⭐⭐
 - NextJS                   ⭐⭐⭐
 - AngularJS                ⭐⭐
 - Angular                  ⭐⭐
 - HTML/CSS                 ⭐⭐⭐⭐⭐
 - Jest                     ⭐⭐⭐
-- Cypress                  ⭐⭐
+- Cypress                  ⭐⭐⭐
 - Docker                   ⭐⭐
 - Kubernetes               ⭐⭐
 - Redux                    ⭐⭐⭐
 - MobX                     ⭐⭐⭐⭐
-- Apollo                   ⭐⭐
+- Apollo                   ⭐⭐⭐
 
 ### 🌱 I’m currently learning 
 - NextJS 14 latest features
