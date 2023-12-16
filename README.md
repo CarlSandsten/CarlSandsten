@@ -5,7 +5,7 @@
 - ⭐⭐⭐⭐⭐ = Expert - I should probably be teaching this to fix the 99% bad tutorials out there on the web
 - ⭐⭐⭐⭐ = Advanced skills - Working with it on a daily basis
 - ⭐⭐⭐ = Senior skills - Working with it on a regular (monthly) basis
-- ⭐⭐ = Worked with it - need a refresher
+- ⭐⭐ = Worked with it for a year minimum in the past - need a refresher
 - ⭐ = Junior
 
 ### 🖥️ High-level engineering
