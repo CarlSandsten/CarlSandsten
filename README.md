@@ -1,26 +1,36 @@
 ## Welcome to my hub 👋
 
+### 📌 My rating system is not yours 
+
+⭐⭐⭐⭐⭐ = Expert - I should probably be teaching this to fix the 99% bad tutorials out there on the web
+⭐⭐⭐⭐ = Advanced skills - Working with it on a daily basis
+⭐⭐⭐ = Senior skills - Working with it on a regular (monthly) basis
+⭐⭐ = Worked with it - need a refresher
+⭐ = Junior
+
+### 🖥️ High-level engineering
+
 - Frontend                 ⭐⭐⭐⭐⭐
 - Backend                  ⭐⭐⭐
-- Fullstack                ⭐⭐⭐⭐⭐
+- Fullstack                ⭐⭐⭐⭐
 
-### 🖥️ Technologies I worked with professionally that are worth mentioning.
+### 🛠️Technologies I worked with professionally that are worth mentioning.
 - JavaScript               ⭐⭐⭐⭐⭐
 - TypeScript               ⭐⭐⭐⭐
 - Golang                   ⭐⭐⭐
-- C#                       ⭐⭐⭐
+- C#                       ⭐⭐
 - Python                   ⭐⭐⭐
-- PHP                      ⭐⭐⭐
+- PHP                      ⭐⭐
 - SQL (MySQL & PostgreSQL) ⭐⭐⭐
 - GraphQL                  ⭐⭐⭐
 - MongoDB                  ⭐⭐⭐
-- Redis                    ⭐⭐⭐
+- Redis                    ⭐⭐
 - NodeJS                   ⭐⭐⭐⭐
 - Express                  ⭐⭐⭐⭐
 - Dotnet Core              ⭐⭐
 - AWS                      ⭐⭐⭐
 - Azure                    ⭐⭐⭐
-- GCP                      ⭐⭐⭐
+- GCP                      ⭐⭐
 - React                    ⭐⭐⭐⭐
 - NextJS                   ⭐⭐⭐
 - AngularJS                ⭐⭐
@@ -32,7 +42,7 @@
 - Kubernetes               ⭐⭐
 - Redux                    ⭐⭐⭐
 - MobX                     ⭐⭐⭐⭐
-- Apollo                   ⭐⭐⭐
+- Apollo                   ⭐⭐
 
 ### 🌱 I’m currently learning 
 - NextJS 14 latest features
