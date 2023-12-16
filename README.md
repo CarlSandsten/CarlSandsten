@@ -22,7 +22,7 @@
 - Python                   ⭐⭐⭐
 - PHP                      ⭐⭐
 - SQL (MySQL & PostgreSQL) ⭐⭐⭐
-- GraphQL                  ⭐⭐⭐
+- GraphQL                  ⭐⭐
 - MongoDB                  ⭐⭐⭐
 - Redis                    ⭐⭐
 - NodeJS                   ⭐⭐⭐⭐
@@ -37,7 +37,7 @@
 - Angular                  ⭐⭐
 - HTML/CSS                 ⭐⭐⭐⭐⭐
 - Jest                     ⭐⭐⭐
-- Cypress                  ⭐⭐⭐
+- Cypress                  ⭐⭐
 - Docker                   ⭐⭐
 - Kubernetes               ⭐⭐
 - Redux                    ⭐⭐⭐
